@@ -7,6 +7,12 @@ public class sunc2 {
 System.out.println("fhytttt");
 System.out.println("pppppppppp");
 		System.out.println("ssssssssssss");
+		
+
+		System.out.println("aruyuuuuuuuuuuu");
+	}
+
+}
 	}
 
 }
