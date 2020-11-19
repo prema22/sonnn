@@ -6,6 +6,7 @@ public class sunc2 {
 		// TODO Auto-generated method stub
 System.out.println("fhytttt");
 System.out.println("pppppppppp");
+		System.out.println("ssssssssssss");
 	}
 
 }
